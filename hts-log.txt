@@ -1,0 +1,41 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 05 Sep 2022 03:49:31 at https://supercell.com/en/games/clashofclans/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://supercell.com/en/games/clashofclans/ -O1 "C:\Users\dell\Desktop\HTML\CoC" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+03:49:58	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://supercell.com/en/games/clashofclans/)
+03:50:25	Error: 	"Forbidden" (403) at link https://cdn.supercell.com/misc/throbber-inactive.png (from https://cdn.supercell.com/supercell.com/220829220756/supercell.com/files/css/css_zrBPCA5pkTcoAHzrFAxEjEvFxO5MTiu6GbmOSL4B6Ls.css)
+03:50:25	Error: 	"Forbidden" (403) at link https://cdn.supercell.com/misc/throbber-active.gif (from https://cdn.supercell.com/supercell.com/220829220756/supercell.com/files/css/css_zrBPCA5pkTcoAHzrFAxEjEvFxO5MTiu6GbmOSL4B6Ls.css)
+03:50:25	Error: 	"Forbidden" (403) at link https://cdn.supercell.com/misc/grippie.png (from https://cdn.supercell.com/supercell.com/220829220756/supercell.com/files/css/css_zrBPCA5pkTcoAHzrFAxEjEvFxO5MTiu6GbmOSL4B6Ls.css)
+03:50:25	Error: 	"Forbidden" (403) at link https://cdn.supercell.com/misc/draggable.png (from https://cdn.supercell.com/supercell.com/220829220756/supercell.com/files/css/css_zrBPCA5pkTcoAHzrFAxEjEvFxO5MTiu6GbmOSL4B6Ls.css)
+03:50:25	Error: 	"Forbidden" (403) at link https://cdn.supercell.com/misc/tree.png (from https://cdn.supercell.com/supercell.com/220829220756/supercell.com/files/css/css_zrBPCA5pkTcoAHzrFAxEjEvFxO5MTiu6GbmOSL4B6Ls.css)
+03:50:25	Error: 	"Forbidden" (403) at link https://cdn.supercell.com/misc/tree-bottom.png (from https://cdn.supercell.com/supercell.com/220829220756/supercell.com/files/css/css_zrBPCA5pkTcoAHzrFAxEjEvFxO5MTiu6GbmOSL4B6Ls.css)
+03:50:25	Error: 	"Forbidden" (403) at link https://cdn.supercell.com/misc/menu-collapsed.png (from https://cdn.supercell.com/supercell.com/220829220756/supercell.com/files/css/css_zrBPCA5pkTcoAHzrFAxEjEvFxO5MTiu6GbmOSL4B6Ls.css)
+03:50:25	Error: 	"Forbidden" (403) at link https://cdn.supercell.com/misc/message-24-ok.png (from https://cdn.supercell.com/supercell.com/220829220756/supercell.com/files/css/css_zrBPCA5pkTcoAHzrFAxEjEvFxO5MTiu6GbmOSL4B6Ls.css)
+03:50:25	Error: 	"Forbidden" (403) at link https://cdn.supercell.com/misc/message-24-warning.png (from https://cdn.supercell.com/supercell.com/220829220756/supercell.com/files/css/css_zrBPCA5pkTcoAHzrFAxEjEvFxO5MTiu6GbmOSL4B6Ls.css)
+03:50:25	Error: 	"Forbidden" (403) at link https://cdn.supercell.com/misc/message-24-error.png (from https://cdn.supercell.com/supercell.com/220829220756/supercell.com/files/css/css_zrBPCA5pkTcoAHzrFAxEjEvFxO5MTiu6GbmOSL4B6Ls.css)
+03:50:25	Error: 	"Forbidden" (403) at link https://cdn.supercell.com/misc/help.png (from https://cdn.supercell.com/supercell.com/220829220756/supercell.com/files/css/css_zrBPCA5pkTcoAHzrFAxEjEvFxO5MTiu6GbmOSL4B6Ls.css)
+03:50:25	Error: 	"Forbidden" (403) at link https://cdn.supercell.com/misc/progress.gif (from https://cdn.supercell.com/supercell.com/220829220756/supercell.com/files/css/css_zrBPCA5pkTcoAHzrFAxEjEvFxO5MTiu6GbmOSL4B6Ls.css)
+03:50:25	Error: 	"Forbidden" (403) at link https://cdn.supercell.com/misc/feed.png (from https://cdn.supercell.com/supercell.com/220829220756/supercell.com/files/css/css_zrBPCA5pkTcoAHzrFAxEjEvFxO5MTiu6GbmOSL4B6Ls.css)
+03:50:25	Error: 	"Forbidden" (403) at link https://cdn.supercell.com/modules/file/icons/text-plain.png (from https://cdn.supercell.com/supercell.com/220829220756/supercell.com/files/css/css_zrBPCA5pkTcoAHzrFAxEjEvFxO5MTiu6GbmOSL4B6Ls.css)
+03:50:25	Error: 	"Forbidden" (403) at link https://cdn.supercell.com/modules/file/icons/application-pdf.png (from https://cdn.supercell.com/supercell.com/220829220756/supercell.com/files/css/css_zrBPCA5pkTcoAHzrFAxEjEvFxO5MTiu6GbmOSL4B6Ls.css)
+03:50:25	Error: 	"Forbidden" (403) at link https://cdn.supercell.com/modules/file/icons/application-octet-stream.png (from https://cdn.supercell.com/supercell.com/220829220756/supercell.com/files/css/css_zrBPCA5pkTcoAHzrFAxEjEvFxO5MTiu6GbmOSL4B6Ls.css)
+03:50:25	Error: 	"Forbidden" (403) at link https://cdn.supercell.com/modules/file/icons/application-x-executable.png (from https://cdn.supercell.com/supercell.com/220829220756/supercell.com/files/css/css_zrBPCA5pkTcoAHzrFAxEjEvFxO5MTiu6GbmOSL4B6Ls.css)
+03:50:25	Error: 	"Forbidden" (403) at link https://cdn.supercell.com/modules/file/icons/audio-x-generic.png (from https://cdn.supercell.com/supercell.com/220829220756/supercell.com/files/css/css_zrBPCA5pkTcoAHzrFAxEjEvFxO5MTiu6GbmOSL4B6Ls.css)
+03:50:25	Error: 	"Forbidden" (403) at link https://cdn.supercell.com/modules/file/icons/image-x-generic.png (from https://cdn.supercell.com/supercell.com/220829220756/supercell.com/files/css/css_zrBPCA5pkTcoAHzrFAxEjEvFxO5MTiu6GbmOSL4B6Ls.css)
+03:50:25	Error: 	"Forbidden" (403) at link https://cdn.supercell.com/modules/file/icons/package-x-generic.png (from https://cdn.supercell.com/supercell.com/220829220756/supercell.com/files/css/css_zrBPCA5pkTcoAHzrFAxEjEvFxO5MTiu6GbmOSL4B6Ls.css)
+03:50:25	Error: 	"Forbidden" (403) at link https://cdn.supercell.com/modules/file/icons/text-html.png (from https://cdn.supercell.com/supercell.com/220829220756/supercell.com/files/css/css_zrBPCA5pkTcoAHzrFAxEjEvFxO5MTiu6GbmOSL4B6Ls.css)
+03:50:25	Error: 	"Forbidden" (403) at link https://cdn.supercell.com/modules/file/icons/text-x-generic.png (from https://cdn.supercell.com/supercell.com/220829220756/supercell.com/files/css/css_zrBPCA5pkTcoAHzrFAxEjEvFxO5MTiu6GbmOSL4B6Ls.css)
+03:50:25	Error: 	"Forbidden" (403) at link https://cdn.supercell.com/modules/file/icons/text-x-script.png (from https://cdn.supercell.com/supercell.com/220829220756/supercell.com/files/css/css_zrBPCA5pkTcoAHzrFAxEjEvFxO5MTiu6GbmOSL4B6Ls.css)
+03:50:25	Error: 	"Forbidden" (403) at link https://cdn.supercell.com/modules/file/icons/video-x-generic.png (from https://cdn.supercell.com/supercell.com/220829220756/supercell.com/files/css/css_zrBPCA5pkTcoAHzrFAxEjEvFxO5MTiu6GbmOSL4B6Ls.css)
+03:50:25	Error: 	"Forbidden" (403) at link https://cdn.supercell.com/modules/file/icons/x-office-document.png (from https://cdn.supercell.com/supercell.com/220829220756/supercell.com/files/css/css_zrBPCA5pkTcoAHzrFAxEjEvFxO5MTiu6GbmOSL4B6Ls.css)
+03:50:25	Error: 	"Forbidden" (403) at link https://cdn.supercell.com/modules/file/icons/x-office-presentation.png (from https://cdn.supercell.com/supercell.com/220829220756/supercell.com/files/css/css_zrBPCA5pkTcoAHzrFAxEjEvFxO5MTiu6GbmOSL4B6Ls.css)
+03:50:25	Error: 	"Forbidden" (403) at link https://cdn.supercell.com/modules/file/icons/x-office-spreadsheet.png (from https://cdn.supercell.com/supercell.com/220829220756/supercell.com/files/css/css_zrBPCA5pkTcoAHzrFAxEjEvFxO5MTiu6GbmOSL4B6Ls.css)
+03:50:25	Error: 	"Forbidden" (403) at link https://cdn.supercell.com/misc/arrow-asc.png (from https://cdn.supercell.com/supercell.com/220829220756/supercell.com/files/css/css_zrBPCA5pkTcoAHzrFAxEjEvFxO5MTiu6GbmOSL4B6Ls.css)
+03:50:25	Error: 	"Forbidden" (403) at link https://cdn.supercell.com/misc/arrow-desc.png (from https://cdn.supercell.com/supercell.com/220829220756/supercell.com/files/css/css_zrBPCA5pkTcoAHzrFAxEjEvFxO5MTiu6GbmOSL4B6Ls.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 54 seconds : 77 links scanned, 46 files written (3752180 bytes overall) [3795791 bytes received at 70292 bytes/sec], 7.7 requests per connection
+(30 errors, 0 warnings, 0 messages)
